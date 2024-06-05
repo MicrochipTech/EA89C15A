@@ -1,4 +1,4 @@
-# SAMA7D65 Early Access Repository
+# SAMA7D65 Early Access - Repository
 Early Access repository for the SAMA7D65 32-bit MPU
 
 The SAMA7D6 Series is a high-performance Arm® Cortex®-A7 CPU-based embedded microprocessor (MPU) targeting HMI and connectivity applications in the home/building, industrial, appliance, medical & automotive markets.
