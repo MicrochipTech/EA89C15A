@@ -5,7 +5,7 @@ The SAMA7D6 Series is delivered with a comprehensive development suite that incl
 Running at up to 1 GHz, the device offers support for multiple memories, such as 16-bit DDR2, DDR3, DDR3L, LPDDR2, LPDDR3, octal/quad SPI Flash. It integrates various display interfaces, including MIPI DSI®, LVDS and 8-bit Serial RGB.
 The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethernet MAC with TSN support, five CAN-FD, three high-speed USB interfaces and embeds advanced security functions, such as PUF, secure boot, secure key storage and high-performance crypto accelerators for AES, SHA, RSA and ECC.
 
-![SAMA7D65](SAMA7D65.jpg) ![SAMA7D65D2G](SAMA7D65D2G.jpg) 
+<p align="center"><img src="SAMA7D65.jpg" /></p>
 
 # SAMA7D65 Early Access - Collaterals
 * Getting Started Guide - Out of Box Demo Experience
