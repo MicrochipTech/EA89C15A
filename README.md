@@ -8,17 +8,17 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
 <p align="center"><img src="SAMA7D65.jpg" /></p>
 
 # SAMA7D65 Early Access - Collaterals
-* Getting Started Guide - Out of Box Demo Experience
-  * This kit comes with an online Getting Started Guide allowing users to run a Linux or MPLAB Harmony v3 demo in less than 10 minutes. Try it [here](https://developerhelp.microchip.com/xwiki/bin/view/Development/software-tools/32-bit-kits/sama7d65-ea-curiosity/)!
+* Getting Started Demo - Out of Box Experience
+  * This kit comes with an online Getting Started Demo allowing users to run a Linux or MPLAB Harmony v3 demo in less than 10 minutes. Try it [here](https://developerhelp.microchip.com/xwiki/bin/view/Development/software-tools/32-bit-kits/sama7d65-ea-curiosity/)!
 * Hardware
   * Order the kit on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EA89C15A)
   * Find the kit details on the [kit web page](https://www.microchip.com/en-us/development-tool/EA89C15A)
-  * [Curiosity board Design Files](Hardware/SAMA7D65%20-%20Curiosity%20Board%20Rev2%20-%20Design%20files.7z)
+  * [Curiosity board Design Files](Hardware/)
   * [Curiosity Board User Guide](Hardware/xxx.pdf)  (waiting for the link)
 * Documentation
-  * [SAMA7D6 Preliminary Data Sheet](Documentation/SAMA7D6%20Preliminary%20Data%20Sheet%20-%2060001851A.pdf)
-  * [SAMA7D6 SiP Preliminary Data Sheet](Documentation/SAMA7D6%20SiP%20Preliminary%20Data%20Sheet%20-%2060001853A.pdf)
-  * [SAMA7D6 Preliminary Errata and Data Sheet Clarifications](Documentation/SAMA7D6%20Errata%20and%20Data%20Sheet%20Clarifications%20-%2080001131A.pdf)
+  * [SAMA7D6 Preliminary Data Sheet](Documentation/)
+  * [SAMA7D6 SiP Preliminary Data Sheet](Documentation/)
+  * [SAMA7D6 Preliminary Errata and Data Sheet Clarifications](Documentation/)
 * Linux Software
   * [Linux Getting Started](Software/xxx.pdf)  (with links to Linux sources and demo images)
 * MPLAB Harmony v3 Software
