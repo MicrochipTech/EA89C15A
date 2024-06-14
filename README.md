@@ -15,6 +15,9 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
   * Find the kit details on the [kit web page](https://www.microchip.com/en-us/development-tool/EA89C15A)
   * [Curiosity board Design Files](Hardware/)
   * [Curiosity Board User Guide](Hardware/)
+  * This Curiosity board supports the following Display Modules
+    * [5.5" MIPI 720p LCD Display Module](https://www.microchip.com/en-us/development-tool/AC40T08A)
+	* [5" WVGA LCD Display with LVDS interface and maXTouch](https://www.microchip.com/en-us/development-tool/AC69T88A)
 * Documentation
   * [SAMA7D6 Preliminary Data Sheet](Documentation/)
   * [SAMA7D6 SiP Preliminary Data Sheet](Documentation/)
@@ -26,7 +29,7 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
   * [core 3.13.4](https://github.com/Microchip-MPLAB-Harmony/core) and [core_apps_sama7d65 v3.0.0](https://github.com/Microchip-MPLAB-Harmony/core_apps_sama7d65)
   * [gfx 3.15.1](https://github.com/Microchip-MPLAB-Harmony/gfx) and [gfx_apps_sam_a7d65 v1.0.0](https://github.com/Microchip-MPLAB-Harmony/gfx_apps_sam_a7d65)
   * [bsp 3.20.0](https://github.com/Microchip-MPLAB-Harmony/bsp)
-  * [net 3.12.0](https://github.com/Microchip-MPLAB-Harmony/net) and net_apps_sama7d6 (expected online by June 14th end of day)
+  * [net 3.12.0](https://github.com/Microchip-MPLAB-Harmony/net) and [net_apps_sama7d6 v1.0.0-E1](https://github.com/Microchip-MPLAB-Harmony/net_apps_sama7d6)
   * usb: coming soon
 * Tools
   * [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
