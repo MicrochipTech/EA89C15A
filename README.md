@@ -9,7 +9,7 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
 
 # SAMA7D65 Early Access - Collaterals
 * Getting Started Demo - Out of Box Experience
-  * This kit comes with an online Getting Started Demo allowing users to run a Linux or MPLAB Harmony v3 demo in less than 10 minutes. Try it [here](https://developerhelp.microchip.com/xwiki/bin/view/software-tools/32-bit-kits/sama7d65-ea-curiosity/)!
+  * This kit comes with an online Getting Started Demo allowing users to run a Linux or MPLAB Harmony v3 demo in less than 10 minutes. Try it here! (Expected online by June 14th end of day)
 * Hardware
   * Order the kit on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EA89C15A)
   * Find the kit details on the [kit web page](https://www.microchip.com/en-us/development-tool/EA89C15A)
