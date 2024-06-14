@@ -14,7 +14,7 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
   * Order the kit on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EA89C15A)
   * Find the kit details on the [kit web page](https://www.microchip.com/en-us/development-tool/EA89C15A)
   * [Curiosity board Design Files](Hardware/)
-  * [Curiosity Board User Guide](Hardware/SAMA7D65-Curiosity%20REV%202%20User%20Guide%20-%2050003708A.pdf)
+  * [Curiosity Board User Guide](Hardware/)
 * Documentation
   * [SAMA7D6 Preliminary Data Sheet](Documentation/)
   * [SAMA7D6 SiP Preliminary Data Sheet](Documentation/)
@@ -24,9 +24,9 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
 * MPLAB Harmony v3 Software
   * [csp 3.19.0](https://github.com/Microchip-MPLAB-Harmony/csp) and [csp_apps_sama7d65 v3.0.0](https://github.com/Microchip-MPLAB-Harmony/csp_apps_sama7d65)
   * [core 3.13.4](https://github.com/Microchip-MPLAB-Harmony/core) and [core_apps_sama7d65 v3.0.0](https://github.com/Microchip-MPLAB-Harmony/core_apps_sama7d65)
-  * [net 3.12.0](https://github.com/Microchip-MPLAB-Harmony/net) and [net_apps_sama7d6](https://github.com/Microchip-MPLAB-Harmony/net_apps_sam_a7d6) (expected online by June 14th end of day)
   * [gfx 3.15.1](https://github.com/Microchip-MPLAB-Harmony/gfx) and [gfx_apps_sam_a7d65 v1.0.0](https://github.com/Microchip-MPLAB-Harmony/gfx_apps_sam_a7d65)
   * [bsp 3.20.0](https://github.com/Microchip-MPLAB-Harmony/bsp)
+  * [net 3.12.0](https://github.com/Microchip-MPLAB-Harmony/net) and [net_apps_sama7d6](https://github.com/Microchip-MPLAB-Harmony/net_apps_sam_a7d6) (expected online by June 14th end of day)
   * usb: coming soon
 * Tools
   * [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
