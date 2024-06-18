@@ -34,6 +34,6 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
 * Tools
   * [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
   * [Device Family Pack (DFP)](https://packs.download.microchip.com/#collapse-Microchip-SAMA7D65-DFP-pdsc)
-  * [SAM-BA in-system Programmer](https://github.com/atmelcorp/sam-ba/releases/tag/v3.8)
+  * [SAM-BA in-system Programmer v3.8](https://www.microchip.com/en-us/development-tool/SAM-BA-IN-SYSTEM-PROGRAMMER)
 
  <p align="center"><img src="SAMA7D65_Curiosity_board_rev2.png" /></p>
