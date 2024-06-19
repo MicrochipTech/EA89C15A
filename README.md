@@ -31,9 +31,14 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
   * [bsp 3.20.0](https://github.com/Microchip-MPLAB-Harmony/bsp)
   * [net 3.12.0](https://github.com/Microchip-MPLAB-Harmony/net) and [net_apps_sama7d6 v1.0.0-E1](https://github.com/Microchip-MPLAB-Harmony/net_apps_sama7d6)
   * usb: coming soon
-* Tools
+* Microchip Development Tools
   * [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
   * [Device Family Pack (DFP)](https://packs.download.microchip.com/#collapse-Microchip-SAMA7D65-DFP-pdsc)
   * [SAM-BA in-system Programmer v3.8](https://www.microchip.com/en-us/development-tool/SAM-BA-IN-SYSTEM-PROGRAMMER)
+  * [Microchip Programmers and Debuggers](https://www.microchip.com/en-us/tools-resources/debug/programmers-debuggers)
+* Third-Party Development Tools
+  * [Segger](https://www.segger.com/supported-devices/microchip/atsama7)
+  * [Lauterbach](https://www.lauterbach.com/supported-platforms/chips/atsama7d65)
+
 
  <p align="center"><img src="SAMA7D65_Curiosity_board_rev2.png" /></p>
