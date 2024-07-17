@@ -16,8 +16,9 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
   * [Curiosity board Design Files](Hardware/)
   * [Curiosity Board User Guide](Hardware/)
   * This Curiosity board supports the following Display Modules
-    * [5.5" MIPI 720p LCD Display Module](https://www.microchip.com/en-us/development-tool/AC40T08A) - in portrait mode only
-	* [5" WVGA LCD Display with LVDS interface and maXTouch](https://www.microchip.com/en-us/development-tool/AC69T88A) - in landscape mode only
+    * [5.5" MIPI 720p LCD Display Module](https://www.microchip.com/en-us/development-tool/AC40T08A)
+	* [5" WVGA LCD Display with LVDS interface and maXTouch](https://www.microchip.com/en-us/development-tool/AC69T88A)
+	* Note: <span style="color:red">The MIPI Display is in portrait-only mode, and the LVDS Display in landscape-only mode</span>
 * Documentation
   * [SAMA7D6 Preliminary Data Sheet](Documentation/)
   * [SAMA7D6 SiP Preliminary Data Sheet](Documentation/)
