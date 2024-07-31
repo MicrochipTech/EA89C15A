@@ -13,8 +13,8 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
 * Hardware
   * Order the kit on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EA89C15A)
   * Find the kit details on the [kit web page](https://www.microchip.com/en-us/development-tool/EA89C15A)
-  * [Curiosity board Design Files](Hardware/)
-  * [Curiosity Board User Guide](Hardware/)
+  * [Curiosity board Design Files](Hardware/) (revision 3)
+  * [Curiosity Board User Guide](Hardware/) (revision B)
   * This Curiosity board supports the following Display Modules
     * [5.5" MIPI 720p LCD Display Module](https://www.microchip.com/en-us/development-tool/AC40T08A)
 	* [5" WVGA LCD Display with LVDS interface and maXTouch](https://www.microchip.com/en-us/development-tool/AC69T88A)
@@ -26,20 +26,19 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
 * Linux Software
   * [Linux Getting Started](Linux/)  (with links to Linux sources and demo images)
 * MPLAB Harmony v3 Software
-  * [csp 3.19.0](https://github.com/Microchip-MPLAB-Harmony/csp) and [csp_apps_sama7d65 v3.0.0](https://github.com/Microchip-MPLAB-Harmony/csp_apps_sama7d65)
-  * [core 3.13.4](https://github.com/Microchip-MPLAB-Harmony/core) and [core_apps_sama7d65 v3.0.0](https://github.com/Microchip-MPLAB-Harmony/core_apps_sama7d65)
-  * [gfx 3.15.1](https://github.com/Microchip-MPLAB-Harmony/gfx) and [gfx_apps_sam_a7d65 v1.0.0](https://github.com/Microchip-MPLAB-Harmony/gfx_apps_sam_a7d65)
-  * [bsp 3.20.0](https://github.com/Microchip-MPLAB-Harmony/bsp)
-  * [net 3.12.0](https://github.com/Microchip-MPLAB-Harmony/net) and [net_apps_sama7d6 v1.0.0-E1](https://github.com/Microchip-MPLAB-Harmony/net_apps_sama7d6)
-  * [usb 3.14](https://github.com/Microchip-MPLAB-Harmony/usb), [usb_apps_device 3.8.0](https://github.com/Microchip-MPLAB-Harmony/usb_apps_device) and [usb_apps_host 3.8.0](https://github.com/Microchip-MPLAB-Harmony/usb_apps_host)
+  * [csp](https://github.com/Microchip-MPLAB-Harmony/csp) and [csp_apps_sama7d65 v3.0.0](https://github.com/Microchip-MPLAB-Harmony/csp_apps_sama7d65)
+  * [core](https://github.com/Microchip-MPLAB-Harmony/core) and [core_apps_sama7d65 v3.0.0](https://github.com/Microchip-MPLAB-Harmony/core_apps_sama7d65)
+  * [gfx](https://github.com/Microchip-MPLAB-Harmony/gfx) and [gfx_apps_sam_a7d65 v1.0.0](https://github.com/Microchip-MPLAB-Harmony/gfx_apps_sam_a7d65)
+  * [bsp](https://github.com/Microchip-MPLAB-Harmony/bsp)
+  * [net](https://github.com/Microchip-MPLAB-Harmony/net) and [net_apps_sama7d6 v1.0.0-E1](https://github.com/Microchip-MPLAB-Harmony/net_apps_sama7d6)
+  * [usb](https://github.com/Microchip-MPLAB-Harmony/usb), [usb_apps_device 3.8.0](https://github.com/Microchip-MPLAB-Harmony/usb_apps_device) and [usb_apps_host 3.8.0](https://github.com/Microchip-MPLAB-Harmony/usb_apps_host)
 * Microchip Development Tools
   * [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
   * [Device Family Pack (DFP)](https://packs.download.microchip.com/#collapse-Microchip-SAMA7D65-DFP-pdsc)
   * [SAM-BA in-system Programmer v3.8](https://www.microchip.com/en-us/development-tool/SAM-BA-IN-SYSTEM-PROGRAMMER)
   * [Microchip Programmers and Debuggers](https://www.microchip.com/en-us/tools-resources/debug/programmers-debuggers)
 * Third-Party Development Tools
-  * [Segger](https://www.segger.com/supported-devices/microchip/atsama7)
-  * [Lauterbach](https://www.lauterbach.com/supported-platforms/chips/atsama7d65)
-
+  * [Segger](https://www.segger.com/supported-devices/microchip/sama7)
+  * [Lauterbach](https://www.lauterbach.com/supported-platforms/chips/sama7d65)
 
  <p align="center"><img src="SAMA7D65_Curiosity_board_rev2.png" /></p>
