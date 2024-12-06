@@ -20,18 +20,13 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
 	* [5" WVGA LCD Display with LVDS interface and maXTouch](https://www.microchip.com/en-us/development-tool/AC69T88A)
 	* Note: __The MIPI Display is in portrait-only mode, and the LVDS Display in landscape-only mode__
 * Documentation
-  * [SAMA7D6 Preliminary Data Sheet](Documentation/)
+  * [SAMA7D6 Series Data Sheet](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ProductDocuments/DataSheets/SAMA7D6-Series-Data-Sheet-DS60001851.pdf)
   * [SAMA7D6 SiP Preliminary Data Sheet](Documentation/)
-  * [SAMA7D6 Preliminary Errata and Data Sheet Clarifications](Documentation/)
+  * [SAMA7D6 Series Silicon Errata and Data Sheet Clarifications](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ProductDocuments/Errata/SAMA7D6-Series-Silicon-Errata-and-Data-Sheet-Clarifications-DS80001131.pdf)
 * Linux Software
-  * [Linux Getting Started](Linux/)  (with links to Linux sources and demo images)
+  * [Linux Getting Started](https://www.linux4sam.org/bin/view/Linux4SAM/Sama7d65CuriosityMainPage)  (with links to Linux sources and demo images)
 * MPLAB Harmony v3 Software
-  * [csp 3.19.0](https://github.com/Microchip-MPLAB-Harmony/csp) and [csp_apps_sama7d65 v3.0.0](https://github.com/Microchip-MPLAB-Harmony/csp_apps_sama7d65)
-  * [core 3.13.4](https://github.com/Microchip-MPLAB-Harmony/core) and [core_apps_sama7d65 v3.0.0](https://github.com/Microchip-MPLAB-Harmony/core_apps_sama7d65)
-  * [gfx 3.15.1](https://github.com/Microchip-MPLAB-Harmony/gfx) and [gfx_apps_sam_a7d65 v1.0.0](https://github.com/Microchip-MPLAB-Harmony/gfx_apps_sam_a7d65)
-  * [bsp 3.20.0](https://github.com/Microchip-MPLAB-Harmony/bsp)
-  * [net 3.12.0](https://github.com/Microchip-MPLAB-Harmony/net) and [net_apps_sama7d6 v1.0.0-E1](https://github.com/Microchip-MPLAB-Harmony/net_apps_sama7d6)
-  * [usb 3.14](https://github.com/Microchip-MPLAB-Harmony/usb), [usb_apps_device 3.8.0](https://github.com/Microchip-MPLAB-Harmony/usb_apps_device) and [usb_apps_host 3.8.0](https://github.com/Microchip-MPLAB-Harmony/usb_apps_host)
+  * Find all code examples on [MPLAB Harmony github](https://github.com/microchip-mplab-harmony) or through [MPLAB Discover](https://mplab-discover.microchip.com/v2?dsl=com.microchip.ide.project%3Adevice.content.name%3Asama7d65&ds=%7B%22com.microchip.ide.project%22%3A%7B%22name%22%3A%22com.microchip.portal.start.displayCharacteristics%22%2C%22version%22%3A%221.6.0%22%7D%7D)
 * Microchip Development Tools
   * [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
   * [Device Family Pack (DFP)](https://packs.download.microchip.com/#collapse-Microchip-SAMA7D65-DFP-pdsc)
