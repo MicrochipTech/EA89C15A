@@ -5,6 +5,14 @@ The SAMA7D6 Series is delivered with a comprehensive development suite that incl
 Running at up to 1 GHz, the device offers support for multiple memories, such as 16-bit DDR2, DDR3, DDR3L, LPDDR2, LPDDR3, octal/quad SPI Flash. It integrates various display interfaces, including MIPI DSI®, LVDS and 8-bit Serial RGB.
 The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethernet MAC with TSN support, five CAN-FD, three high-speed USB interfaces and embeds advanced security functions, such as PUF, secure boot, secure key storage and high-performance crypto accelerators for AES, SHA, RSA and ECC.
 
+For more information about the SAMA7D6 Series MPU or the associated SIPs and SOM, please visit the respective product and github pages:
+* SoC
+  * [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65)
+* SiP
+  * [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G)
+* SOM
+  * [SAMA7D65D2GN8](https://github.com/MicrochipTech/EA-SOM-SAMA7D6)
+
 <p align="center"><img src="SAMA7D65.jpg" /></p>
 
 # SAMA7D65 Early Access - Collaterals
@@ -21,7 +29,7 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
 	* Note: __The MIPI Display is in portrait-only mode, and the LVDS Display in landscape-only mode__
 * Documentation
   * [SAMA7D6 Series Data Sheet](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ProductDocuments/DataSheets/SAMA7D6-Series-Data-Sheet-DS60001851.pdf)
-  * [SAMA7D6 SiP Preliminary Data Sheet](Documentation/)
+  * [SAMA7D6 Series SiP Data Sheet](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ProductDocuments/DataSheets/SAMA7D6-Series-SiP-Data-Sheet-DS60001853.pdf)
   * [SAMA7D6 Series Silicon Errata and Data Sheet Clarifications](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ProductDocuments/Errata/SAMA7D6-Series-Silicon-Errata-and-Data-Sheet-Clarifications-DS80001131.pdf)
 * Linux Software
   * [Linux Getting Started](https://www.linux4sam.org/bin/view/Linux4SAM/Sama7d65CuriosityMainPage)  (with links to Linux sources and demo images)
@@ -30,7 +38,7 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
 * Microchip Development Tools
   * [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
   * [Device Family Pack (DFP)](https://packs.download.microchip.com/#collapse-Microchip-SAMA7D65-DFP-pdsc)
-  * [SAM-BA in-system Programmer v3.8](https://www.microchip.com/en-us/development-tool/SAM-BA-IN-SYSTEM-PROGRAMMER)
+  * [SAM-BA in-system Programmer](https://www.microchip.com/en-us/development-tool/SAM-BA-IN-SYSTEM-PROGRAMMER)
   * [Microchip Programmers and Debuggers](https://www.microchip.com/en-us/tools-resources/debug/programmers-debuggers)
 * Third-Party Development Tools
   * [Segger](https://www.segger.com/supported-devices/microchip/atsama7)
