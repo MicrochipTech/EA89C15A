@@ -1,4 +1,4 @@
-# SAMA7D65 Early Access - Repository
+# SAMA7D65 SoC SiP Early Access - Repository
 
 The SAMA7D6 Series is a high-performance Arm® Cortex®-A7 CPU-based embedded microprocessor (MPU) targeting HMI and connectivity applications in the home/building, industrial, appliance, medical & automotive markets.
 The SAMA7D6 Series is delivered with a comprehensive development suite that includes a mainline Linux® distribution and the Microchip MPLAB® X/Harmony software framework.
@@ -15,7 +15,7 @@ For more information about the SAMA7D6 Series MPU or the associated SIPs and SOM
 
 <p align="center"><img src="SAMA7D65.jpg" /></p>
 
-# SAMA7D65 Early Access - Collaterals
+# SAMA7D65 SoC SiP Early Access - Collaterals
 * Getting Started Demo - Out of Box Experience
   * This kit comes with an online Getting Started Demo allowing users to run a Linux or MPLAB Harmony v3 demo in less than 10 minutes. Try it [here](https://developerhelp.microchip.com/xwiki/bin/view/software-tools/32-bit-kits/sama7d65-ea-curiosity/)!
 * Hardware
