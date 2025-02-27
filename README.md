@@ -19,11 +19,12 @@ For more information about the SAMA7D6 Series MPU or the associated SIPs and SOM
 * Getting Started Demo - Out of Box Experience
   * This kit comes with an online Getting Started Demo allowing users to run a Linux or MPLAB Harmony v3 demo in less than 10 minutes. Try it [here](https://developerhelp.microchip.com/xwiki/bin/view/software-tools/32-bit-kits/sama7d65-ea-curiosity/)!
 * Hardware
-  * Order the kit on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EA89C15A)
+  * Order the EA89C15A kit on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EA89C15A)
   * Find the kit details on the [kit web page](https://www.microchip.com/en-us/development-tool/EA89C15A)
   * [Curiosity board Design Files](Hardware/)
   * [Curiosity Board User Guide](Hardware/)
-  * This Curiosity board supports the following Display Modules
+  * **NOTE:** A more recent EV63J76A kit is available on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EV63J76A). Please find all details, User Guide and Design Files on the [kit web page](https://www.microchip.com/en-us/development-tool/EV63J76A)
+  * Both kits support the following Display Modules
     * [5.5" MIPI 720p LCD Display Module](https://www.microchip.com/en-us/development-tool/AC40T08A)
 	* [5" WVGA LCD Display with LVDS interface and maXTouch](https://www.microchip.com/en-us/development-tool/AC69T88A)
 	* Note: __The MIPI Display is in portrait-only mode, and the LVDS Display in landscape-only mode__
