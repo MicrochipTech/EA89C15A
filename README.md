@@ -7,9 +7,9 @@ The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethe
 
 For more information about the SAMA7D6 Series MPU or the associated SIPs and SOM, please visit the respective product and github pages:
 * SoC
-  * [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65)
+  * [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65) (Released to Production)
 * SiP
-  * [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G)
+  * [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G) (Released to Production)
 * SOM
   * [SAMA7D65D2GN8](https://github.com/MicrochipTech/EA-SOM-SAMA7D6) (Early Access Program)
 
