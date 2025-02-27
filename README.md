@@ -11,7 +11,7 @@ For more information about the SAMA7D6 Series MPU or the associated SIPs and SOM
 * SiP
   * [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G)
 * SOM
-  * [SAMA7D65D2GN8](https://github.com/MicrochipTech/EA-SOM-SAMA7D6)
+  * [SAMA7D65D2GN8](https://github.com/MicrochipTech/EA-SOM-SAMA7D6) (Early Access Program)
 
 <p align="center"><img src="SAMA7D65.jpg" /></p>
 
