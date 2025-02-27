@@ -23,7 +23,7 @@ For more information about the SAMA7D6 Series MPU or the associated SIPs and SOM
   * Find the kit details on the [kit web page](https://www.microchip.com/en-us/development-tool/EA89C15A)
   * [Curiosity board Design Files](Hardware/)
   * [Curiosity Board User Guide](Hardware/)
-  * **NOTE:** A more recent EV63J76A kit is available on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EV63J76A). Please find all details, User Guide and Design Files on the [kit web page](https://www.microchip.com/en-us/development-tool/EV63J76A)
+  * **NOTE: A more recent EV63J76A kit is available on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EV63J76A). Please find all details, User Guide and Design Files on the [kit web page](https://www.microchip.com/en-us/development-tool/EV63J76A) **
   * Both kits support the following Display Modules
     * [5.5" MIPI 720p LCD Display Module](https://www.microchip.com/en-us/development-tool/AC40T08A)
 	* [5" WVGA LCD Display with LVDS interface and maXTouch](https://www.microchip.com/en-us/development-tool/AC69T88A)
