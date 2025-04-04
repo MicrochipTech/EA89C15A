@@ -1,3 +1,11 @@
+# Notice
+
+The Early Access program for SAMA7D65 is now over.
+
+The Early Access SAMA7D65 Curiosity kit (EA89C15A) has now been superseded by the production [SAMA7D65 Curiosity kit (EV63J76A)](https://www.microchip.com/en-us/development-tool/EV63J76A). 
+
+We recommend referring to [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65) and [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G) product pages, and to the production [SAMA7D65 Curiosity kit](https://www.microchip.com/en-us/development-tool/EV63J76A) for the most up-to-date information.
+
 # SAMA7D65 SoC/SiP Early Access - Repository
 
 The SAMA7D6 Series is a high-performance Arm® Cortex®-A7 CPU-based embedded microprocessor (MPU) targeting HMI and connectivity applications in the home/building, industrial, appliance, medical & automotive markets.
