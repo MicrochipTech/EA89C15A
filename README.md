@@ -6,23 +6,6 @@ The Early Access SAMA7D65 Curiosity kit (EA89C15A) has now been superseded by th
 
 We recommend referring to [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65) and [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G) product pages, and to the production [SAMA7D65 Curiosity kit](https://www.microchip.com/en-us/development-tool/EV63J76A) for the most up-to-date information.
 
-# SAMA7D65 SoC/SiP Early Access - Repository
-
-The SAMA7D6 Series is a high-performance Arm® Cortex®-A7 CPU-based embedded microprocessor (MPU) targeting HMI and connectivity applications in the home/building, industrial, appliance, medical & automotive markets.
-The SAMA7D6 Series is delivered with a comprehensive development suite that includes a mainline Linux® distribution and the Microchip MPLAB® X/Harmony software framework.
-Running at up to 1 GHz, the device offers support for multiple memories, such as 16-bit DDR2, DDR3, DDR3L, LPDDR2, LPDDR3, octal/quad SPI Flash. It integrates various display interfaces, including MIPI DSI®, LVDS and 8-bit Serial RGB.
-The SAMA7D6 Series features connectivity options such as a dual 10/100/1000 Ethernet MAC with TSN support, five CAN-FD, three high-speed USB interfaces and embeds advanced security functions, such as PUF, secure boot, secure key storage and high-performance crypto accelerators for AES, SHA, RSA and ECC.
-
-For more information about the SAMA7D6 Series MPU or the associated SIPs and SOM, please visit the respective product and github pages:
-* SoC
-  * [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65) (Released to Production)
-* SiP
-  * [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G) (Released to Production)
-* SOM
-  * [SAMA7D65D2GN8](https://github.com/MicrochipTech/EA-SOM-SAMA7D6) (Early Access Program)
-
-<p align="center"><img src="SAMA7D65.jpg" /></p>
-
 # SAMA7D65 SoC/SiP Early Access - Collaterals
 * Quick Start Guide
   * This kit comes with online Quick Start Guides allowing users to run a Linux or MPLAB Harmony v3 demo in less than 10 minutes.
