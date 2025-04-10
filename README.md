@@ -12,10 +12,11 @@ We recommend referring to [SAMA7D65](https://www.microchip.com/en-us/product/SAM
   * Try it [here](https://developerhelp.microchip.com/xwiki/bin/view/software-tools/32-bit-kits/sama7d65-ea-curiosity/)!
 * Hardware
   * Order the EA89C15A kit on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EA89C15A)
+     * **NOTE: A more recent production EV63J76A kit is available**
+     * **Order it on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EV63J76A), and find all details, User Guide and Design Files on the [kit web page](https://www.microchip.com/en-us/development-tool/EV63J76A)**
   * Find the kit details on the [kit web page](https://www.microchip.com/en-us/development-tool/EA89C15A)
   * [Curiosity board Design Files](Hardware/)
   * [Curiosity Board User Guide](Hardware/)
-  * **NOTE: A more recent production EV63J76A kit is available:** Order it on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EV63J76A), and find all details, User Guide and Design Files on the [kit web page](https://www.microchip.com/en-us/development-tool/EV63J76A)
   * Both kits support the following Display Modules
     * [5.5" MIPI 720p LCD Display Module](https://www.microchip.com/en-us/development-tool/AC40T08A)
 	* [5" WVGA LCD Display with LVDS interface and maXTouch](https://www.microchip.com/en-us/development-tool/AC69T88A)
@@ -30,7 +31,6 @@ We recommend referring to [SAMA7D65](https://www.microchip.com/en-us/product/SAM
   * Find all code examples on [MPLAB Harmony github](https://github.com/microchip-mplab-harmony) or through [MPLAB Discover](https://mplab-discover.microchip.com/v2?dsl=com.microchip.ide.project%3Adevice.content.name%3Asama7d65&ds=%7B%22com.microchip.ide.project%22%3A%7B%22name%22%3A%22com.microchip.portal.start.displayCharacteristics%22%2C%22version%22%3A%221.6.0%22%7D%7D)
 * Microchip Development Tools
   * [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
-  * [Device Family Pack (DFP)](https://packs.download.microchip.com/#collapse-Microchip-SAMA7D65-DFP-pdsc)
   * [SAM-BA in-system Programmer](https://www.microchip.com/en-us/development-tool/SAM-BA-IN-SYSTEM-PROGRAMMER)
   * [Microchip Programmers and Debuggers](https://www.microchip.com/en-us/tools-resources/debug/programmers-debuggers)
 * Third-Party Development Tools
