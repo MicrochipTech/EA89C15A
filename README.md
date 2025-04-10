@@ -24,8 +24,9 @@ For more information about the SAMA7D6 Series MPU or the associated SIPs and SOM
 <p align="center"><img src="SAMA7D65.jpg" /></p>
 
 # SAMA7D65 SoC/SiP Early Access - Collaterals
-* Getting Started Demo - Out of Box Experience
-  * This kit comes with an online Getting Started Demo allowing users to run a Linux or MPLAB Harmony v3 demo in less than 10 minutes. Try it [here](https://developerhelp.microchip.com/xwiki/bin/view/software-tools/32-bit-kits/sama7d65-ea-curiosity/)!
+* Quick Start Guide
+  * This kit comes with online Quick Start Guides allowing users to run a Linux or MPLAB Harmony v3 demo in less than 10 minutes.
+  * Try it [here](https://developerhelp.microchip.com/xwiki/bin/view/software-tools/32-bit-kits/sama7d65-ea-curiosity/)!
 * Hardware
   * Order the EA89C15A kit on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EA89C15A)
   * Find the kit details on the [kit web page](https://www.microchip.com/en-us/development-tool/EA89C15A)
