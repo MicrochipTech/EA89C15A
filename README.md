@@ -1,23 +1,26 @@
 # Notice
 
-The Early Access program for SAMA7D65 is now over.
+The Early Adopter program for SAMA7D65 is now over.
 
-The Early Access SAMA7D65 Curiosity kit (EA89C15A) has now been superseded by the production [SAMA7D65 Curiosity kit (EV63J76A)](https://www.microchip.com/en-us/development-tool/EV63J76A). 
+The Early Adopter SAMA7D65 Curiosity kit (EA89C15A) has now been superseded by the production [SAMA7D65 Curiosity kit (EV63J76A)](https://www.microchip.com/en-us/development-tool/EV63J76A). 
 
 We recommend referring to [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65) and [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G) product pages, and to the production [SAMA7D65 Curiosity kit](https://www.microchip.com/en-us/development-tool/EV63J76A) for the most up-to-date information.
 
-# SAMA7D65 SoC/SiP Early Access - Collaterals
+
+
+
+# SAMA7D65 SoC/SiP Early Adopter - Collaterals
 * Quick Start Guide
-  * This kit comes with online Quick Start Guides allowing users to run a Linux or MPLAB Harmony v3 demo in less than 10 minutes.
+  * This Early Adopter kit comes with online Quick Start Guides allowing users to run a Linux or MPLAB Harmony v3 demo in less than 10 minutes.
   * Try it [here](https://developerhelp.microchip.com/xwiki/bin/view/software-tools/32-bit-kits/sama7d65-ea-curiosity/)!
 * Hardware
-  * Order the EA89C15A kit on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EA89C15A)
+  * Order the EA89C15A Early Adopter kit on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EA89C15A)
      * **NOTE: A more recent production EV63J76A kit is available**
      * **Order it on [Microchip Direct](https://www.microchipdirect.com/dev-tools/EV63J76A), and find all details, User Guide and Design Files on the [kit web page](https://www.microchip.com/en-us/development-tool/EV63J76A)**
-  * Find the kit details on the [kit web page](https://www.microchip.com/en-us/development-tool/EA89C15A)
-  * [Curiosity board Design Files](Hardware/)
-  * [Curiosity Board User Guide](Hardware/)
-  * Both kits support the following Display Modules
+  * Find the Early Adopter kit details on the [kit web page](https://www.microchip.com/en-us/development-tool/EA89C15A)
+  * Early Adopter [Curiosity board Design Files](Hardware/)
+  * Early Adopter [Curiosity Board User Guide](Hardware/)
+  * The kit supports the following Display Modules
     * [5.5" MIPI 720p LCD Display Module](https://www.microchip.com/en-us/development-tool/AC40T08A)
 	* [5" WVGA LCD Display with LVDS interface and maXTouch](https://www.microchip.com/en-us/development-tool/AC69T88A)
 	* Note: __The MIPI Display is in portrait-only mode, and the LVDS Display in landscape-only mode__
